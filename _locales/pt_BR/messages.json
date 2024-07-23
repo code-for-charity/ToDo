@@ -1,95 +1,95 @@
 {
     "areYouSureYouWantToExportTheData": {
-        "message": "Are you sure you want to export the data?"
+        "message": "Você tem certeza de que deseja exportar os dados?"
     },
     "areYouSureYouWantToImportTheData": {
-        "message": "Are you sure you want to import the data?"
+        "message": "Você tem certeza de que deseja importar os dados?"
     },
     "black": {
-        "message": "Black"
+        "message": "Preto"
     },
     "cancel": {
-        "message": "Cancel"
+        "message": "Cancelar"
     },
     "changeColor": {
-        "message": "Change color"
+        "message": "Alterar cor"
     },
     "changeIcon": {
-        "message": "Change icon"
+        "message": "Alterar ícone"
     },
     "color": {
-        "message": "Color"
+        "message": "Cor"
     },
     "create": {
-        "message": "Create"
+        "message": "Criar"
     },
     "dark": {
-        "message": "Dark"
+        "message": "Escuro"
     },
     "dataExportedSuccessfully": {
-        "message": "Data exported successfully"
+        "message": "Dados exportados com sucesso"
     },
     "dataImportedSuccessfully": {
-        "message": "Data imported successfully"
+        "message": "Dados importados com sucesso"
     },
     "decryption": {
-        "message": "Decryption"
+        "message": "Descriptografia"
     },
     "description": {
-        "message": "With the To-Do extension you get a simple popup to capture your ideas, goals and daily tasks."
+        "message": "Com a extensão To-Do, você obtém um pop-up simples para capturar suas ideias, metas e tarefas diárias."
     },
     "encryption": {
-        "message": "Encryption"
+        "message": "Criptografia"
     },
     "export": {
-        "message": "Export"
+        "message": "Exportar"
     },
     "icons": {
-        "message": "Icons"
+        "message": "Ícones"
     },
     "import": {
-        "message": "Import"
+        "message": "Importar"
     },
     "language": {
-        "message": "Language"
+        "message": "Idioma"
     },
     "light": {
-        "message": "Light"
+        "message": "Claro"
     },
     "lists": {
-        "message": "Lists"
+        "message": "Listas"
     },
     "myTasks": {
-        "message": "My tasks"
+        "message": "Minhas tarefas"
     },
     "newList": {
-        "message": "New list"
+        "message": "Nova lista"
     },
     "newTask": {
-        "message": "New task"
+        "message": "Nova tarefa"
     },
     "noLists": {
-        "message": "No lists"
+        "message": "Sem listas"
     },
     "noTasks": {
-        "message": "No tasks"
+        "message": "Sem tarefas"
     },
     "ok": {
         "message": "OK"
     },
     "password": {
-        "message": "Password"
+        "message": "Senha"
     },
     "remove": {
-        "message": "Remove"
+        "message": "Remover"
     },
     "rename": {
-        "message": "Rename"
+        "message": "Renomear"
     },
     "selectFile": {
-        "message": "Select file"
+        "message": "Selecionar arquivo"
     },
     "theme": {
-        "message": "Theme"
+        "message": "Tema"
     }
 }
